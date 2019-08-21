@@ -3517,7 +3517,7 @@
         "INSTALL": "Pasang",
         "INSTALLED": "Terpasang",
         "INSTALLING": "Memasang",
-        "INSTALL_ALL": "Pasang Semua"
+        "INSTALL_ALL": "Pasang Semua",
         "INSTALL_MENU": "Menu Pemasangan",
         "INSTALL_TICKET_ONLY": "Pasang Tiket Saja",
         "INSTALL_UNSIGNED_CODE": "Pasang Kode Tidak Resmi",
@@ -3544,7 +3544,7 @@
         "OVERCLOCK_INSTALLS": "Overclock Pemasangan",
         "OVERCLOCK_UI": "Overclock Tampilan",
         "PAGE_DOWN": "Halaman Bawah",
-        "PAGE_UP": : "Halaman Atas",
+        "PAGE_UP": "Halaman Atas",
         "PASSWORD": "Sandi",
         "PASTE": "Tempel",
         "PERSONALIZED": "Personilisasi",
